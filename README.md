@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivangtech99
-- 👀 I’m interested in dynamic progrmming languages
-- 🌱 I’m currently learning fastapis and mongodb using python
+- 👀 I’m interested in dynamic programming languages
+- 🌱 I’m currently learning typescript and react js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me , you can reach me at shivangbhardwaj7448@gmail.com
 
